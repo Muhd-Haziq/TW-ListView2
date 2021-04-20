@@ -11,7 +11,6 @@ public class SecondActivity extends AppCompatActivity {
     ListView lv;
     TextView tvYear;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
